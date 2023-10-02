@@ -1,0 +1,20 @@
+.emojis-container {
+  text-align: center;
+}
+
+.emoji {
+  font-size: 48px;
+  margin: 10px;
+}
+
+.happy {
+  color: green;
+}
+
+.neutral {
+  color: yellow;
+}
+
+.sad {
+  color: red;
+}
